@@ -37,5 +37,5 @@ A real-time drowsiness detection system that uses a laptop’s built-in camera t
 
 ---
 
-## 📂 Project Structure
+
 
